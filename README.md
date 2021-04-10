@@ -1,5 +1,5 @@
         
-      <img src="./assets/img/projeto.png" alt="">
+      <img src="./assets/img/projeto.png">
     
 
 # Sobre
