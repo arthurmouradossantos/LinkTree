@@ -1,6 +1,4 @@
-        
-      <img src="./assets/img/projeto.png">
-    
+<img src="./assets/img/projeto.png">    
 
 # Sobre
 
